@@ -1,3 +1,37 @@
 body{
-    background-color: rgb(179, 166, 166);
+    font-family:20px Arial, Helvetica, sans-serif;
 }
+*{
+    font-family:20px Arial, Helvetica, sans-serif;
+}
+.navbar {
+    background-color: #B45F04;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: white;
+}
+.quemsomos{
+    background-color: #2ECCFA;
+    text-align: center;
+    color: white;
+    padding-bottom: 50px;
+}
+.font{
+    font-family:1px Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 15px 0;
+}
+.parceiros{
+    padding-top: 15px;
+    padding-bottom: 50px;
+    background-color: aquamarine;
+}
+.servicos{
+    padding-bottom: 50px;
+    background-color: #8258FA;
+}
+.bg-footer{
+    background-color: black;
+
+}
+
